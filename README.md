@@ -1,1 +1,1 @@
-# Epidemiological-analysis-in-Latin-Americ
+# Epidemiological-analysis-in-Latin-America
